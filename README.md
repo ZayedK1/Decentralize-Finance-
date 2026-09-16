@@ -1,4 +1,3 @@
-# Ethereum_Foundation
 # Project Repository
 
 Welcome to the project repository. Below is a brief description of the key files included:
